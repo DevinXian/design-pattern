@@ -1,0 +1,1 @@
+This is Readme for JavaScript Design Pattern!
